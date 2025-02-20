@@ -10,9 +10,9 @@ It is built using **Python, NLTK, Scikit-learn, and TfidfVectorizer** to preproc
 ```
 📺 Sentiment-Analysis-Project
 │── 📄 sentiment_analysis.ipynb  # Jupyter/Colab notebook with full code  
-│── 📄 README.md                  # Project description (this file)  
-│── 📁 dataset/                    # (If you use an external dataset)  
-│── 📁 models/                     # (For saving trained models)  
+│── 📄 README.md                  
+│── 📁 dataset/                    
+│── 📁 models/                   
 ```
 
 ---
