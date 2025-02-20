@@ -22,7 +22,7 @@ To run this project on your local machine:
 
 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/your-username/Sentiment-Analysis-Project.git
+git clonehttps://github.com/Ritik463/-Sentiment-Analysis-Model-.git
 cd Sentiment-Analysis-Project
 ```
 
